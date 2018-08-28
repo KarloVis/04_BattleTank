@@ -1,4 +1,5 @@
 *.pdb
+*.umap
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -77,4 +78,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-BattleTank/Binaries/Win64/UE4Editor-BattleTank.pdb
